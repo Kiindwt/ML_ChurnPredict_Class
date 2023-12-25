@@ -1,7 +1,8 @@
 # Projeto de Análise e Classificação de Cancelamento de Serviço do Cliente(Churn)
 ## Visão Geral
 Este projeto se concentra na análise de dados e na construção de um modelo de classificação para prever o cancelamento de serviço por parte dos clientes. Começamos com a limpeza dos dados, a exploração das características disponíveis e a divisão do conjunto de dados para treinamento e teste. Em seguida, treinamos vários modelos de classificação e avaliamos seu desempenho usando métricas relevantes.
-
+## Como visualizar o projeto 
+Clique no arquivo chamado `churn.ipynb`
 ## Etapas Realizadas
 
 ### 1. Limpeza e Preparação de Dados:
